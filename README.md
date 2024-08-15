@@ -8,7 +8,7 @@ Repositorio recopilatorio en el cual se estarán guardando los reportes y práct
   <a href="https://youtu.be/YIleKCYH_Zc" target="_blank">Video tutorial del mantenimiento</a>
 </p>
 
-### PRACTICA 2
+## PRACTICA 2
 
 <p align="center">
   <a href="https://youtu.be/yDWWiNcTzVM">Video tutorial de instalacion de Ubuntu</a>
