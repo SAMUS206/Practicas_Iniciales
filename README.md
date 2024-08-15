@@ -13,3 +13,7 @@ Repositorio recopilatorio en el cual se estarán guardando los reportes y práct
 <p align="center">
   <a href="https://youtu.be/yDWWiNcTzVM">Video tutorial de instalacion de Ubuntu</a>
 </p>
+
+<p align="center">
+  <a href="https://youtu.be/DFjuCwESuKY">Video tutorial de redes alambricas e inalambricas</a>
+</p>
