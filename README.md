@@ -10,5 +10,5 @@ Repositorio recopilatorio en el cual se estarán guardando los reportes y práct
 ## PRACTICA 2
 
 <p align="center">
-  <a href="https://youtu.be/yDWWiNcTzVM">Video tutorial del mantenimiento</a>
+  <a href="https://youtu.be/yDWWiNcTzVM">Video tutorial de instalacion de Ubuntu</a>
 </p>
